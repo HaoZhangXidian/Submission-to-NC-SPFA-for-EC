@@ -15,7 +15,7 @@ The dynamic link functions should be used in Windows system with visual studio a
 
 Note that, since the data is privacy, we can not upload the data without permission. You can try our method on your data or ask for the permision from 
 OneFlorida Clinical Research Consortium (https://www.ctsi.ufl.edu/ctsa-consortium-projects/oneflorida/).
-In ths Line 19, 20 in main.py, we explain how to organize the data.
+In the Line 19, 20 in main.py, we explain how to organize the data.
 
 If you have any questions, please contact us:
 haz4007@med.cornell.edu,
