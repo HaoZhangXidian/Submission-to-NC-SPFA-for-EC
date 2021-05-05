@@ -1,0 +1,15 @@
+
+
+gpu:
+  device: 0
+training:
+  batch_size: 200
+  eval_batch_size: 100
+  optimizer: adam
+  lr: 0.001
+  epoch: 3000
+data:
+  vocab_size: 1922
+model:
+  PGBN_h1: 128
+  PGBN_numTopic1: 40
