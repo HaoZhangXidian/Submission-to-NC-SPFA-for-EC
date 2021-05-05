@@ -1,9 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Sat Oct  7 17:15:34 2017
-
-@author: Chaojie
+@author: Hao
 """
 import numpy as np
 import numpy.ctypeslib as npct
