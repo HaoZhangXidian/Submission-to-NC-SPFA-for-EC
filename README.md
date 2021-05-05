@@ -18,7 +18,7 @@ OneFlorida Clinical Research Consortium (https://www.ctsi.ufl.edu/ctsa-consortiu
 In ths Line 19, 20 in main.py, we explain how to organize the data.
 
 If you have any questions, please contact us:
-haz4007@med.cornell.edu
-jix4002@med.cornell.edu
+haz4007@med.cornell.edu,
+jix4002@med.cornell.edu,
 few2001@med.cornell.edu
 
