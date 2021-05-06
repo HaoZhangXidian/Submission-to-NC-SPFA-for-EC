@@ -1,6 +1,6 @@
-# Submission-in-NC-SPFA-for-EC
+# Submission-to-NC-SPFA-for-EC
 
-This is the code for our submission in NC: supervised topic modeling for EC design
+This is the code for our submission to NC: Machine learning enabled subgroup analysis with real world data to inform better clinical trial design
 
 We run our code based on Python 3.7 and pytorch 0.4 on Windows system.
 
